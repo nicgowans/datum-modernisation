@@ -1,8 +1,8 @@
 #-----------------------------------------------------------------------
-#                          DynAdjust.py
+# DynAdjust_TypeB.py
 #-----------------------------------------------------------------------
 #  Author: Nicholas Gowans
-#    Date: 22 May 2019
+#    Date: 22 August 2019
 # Purpose: To add type B uncertainties to DynAdjust .apu and .xyz files.
 #
 # ----------------------------------------------------------------------
